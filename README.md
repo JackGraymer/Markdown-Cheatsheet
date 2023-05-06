@@ -162,21 +162,22 @@ You can create a horizontal rule by using three or more hyphens (`---`), asteris
 
 ### Tables
 
-You can create tables by using vertical bars (`|`) and hyphens (`-`) to separate columns and rows, respectively. For example:
+You can create tables by using vertical bars (`|`) and hyphens (`-`) to separate columns and rows, respectively. Also the text can be justified.   
+For example:
 
 **Code**
 ```
 | Name | Age | Gender |
-|------|-----|--------|
-| John | 25  | Male   |
+|:-----|:---:|-------:|
+| Left | Center | Right |
 | Jane | 30  | Female |
 | Bob  | 40  | Male   |
 ```
 
 **Result**
 | Name | Age | Gender |
-|------|-----|--------|
-| John | 25  | Male   |
+|:-----|:---:|-------:|
+| Left | Center | Right |
 | Jane | 30  | Female |
 | Bob  | 40  | Male   |
 
