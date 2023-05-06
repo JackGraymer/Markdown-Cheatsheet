@@ -100,11 +100,11 @@ You can add images by using an exclamation mark (`!`) followed by square bracket
 
 **Code**
 ```
-![Alt text]((https://picsum.photos/420))
+![Alt text](https://picsum.photos/420)
 ```
 
 **Result**
-![Alt text]((https://picsum.photos/420))
+![Alt text](https://picsum.photos/420)
 
 
 ### Code
