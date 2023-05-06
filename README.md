@@ -100,11 +100,11 @@ You can add images by using an exclamation mark (`!`) followed by square bracket
 
 **Code**
 ```
-![Alt text](image URL)
+![Alt text]((https://picsum.photos/420))
 ```
 
 **Result**
-![Alt text](image URL)
+![Alt text]((https://picsum.photos/420))
 
 
 ### Code
@@ -179,6 +179,3 @@ You can create tables by using vertical bars (`|`) and hyphens (`-`) to separate
 | John | 25  | Male   |
 | Jane | 30  | Female |
 | Bob  | 40  | Male   |
-
-
-![Random Image](https://picsum.photos/420)
