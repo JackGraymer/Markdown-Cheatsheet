@@ -226,3 +226,4 @@ Here's a list of some commonly used emojis:
 | Smile | :smile: |
 | Angry | :angry: |
 
+For a comprehensive list of emojis supported in Markdown and its code, check [emojipedia](https://github.com/JackGraymer/Markdown-Cheatsheet/blob/main/Markdown-Emoji-List.md)
