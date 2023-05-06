@@ -87,11 +87,11 @@ You can create links by surrounding the link text with square brackets (`[]`) an
 
 **Code**
 ```
-[Link text](URL)
+[Link text](https://github.com/JackGraymer/Markdown-Cheatsheet)
 ```
 
 **Result**
-[Link text](URL)
+[Link text](https://github.com/JackGraymer/Markdown-Cheatsheet)
 
 
 ### Images
