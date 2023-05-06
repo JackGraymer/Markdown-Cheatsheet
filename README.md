@@ -179,3 +179,50 @@ You can create tables by using vertical bars (`|`) and hyphens (`-`) to separate
 | John | 25  | Male   |
 | Jane | 30  | Female |
 | Bob  | 40  | Male   |
+
+### Strikethrough
+
+You can strikethrough text by enclosing it in two tilde symbols (`~~`). For example:
+
+```md
+This is ~~strikethrough~~ text.
+```
+
+**Result**
+This is ~~strikethrough~~ text.
+
+### Task Lists
+
+You can create task lists by using the hyphen (`-`) or asterisk (`*`) character with a space, followed by `[ ]` or `[x]` inside the square brackets to indicate whether the task is incomplete or complete, respectively. For example:
+
+```md
+- [x] Completed task
+- [ ] Incomplete task
+```
+
+**Result**
+- [x] Completed task
+- [ ] Incomplete task
+
+### Emojis
+
+You can use emojis in Markdown by typing a colon (`:`) followed by the emoji name and another colon. For example:
+
+```md
+:thumbsup:
+```
+
+**Result**
+:thumbsup:
+
+Here's a list of some commonly used emojis:
+
+| Emoji Name | Emoji Code |
+|------------|------------|
+| Thumbs Up | :thumbsup: |
+| Thumbs Down | :thumbsdown: |
+| Check Mark | :heavy_check_mark: |
+| Cross Mark | :x: |
+| Smile | :smile: |
+| Angry | :angry: |
+
